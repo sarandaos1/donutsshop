@@ -1,0 +1,19 @@
+.image1 {
+  width: 270px;
+  height: 500px;
+  position: relative;
+  top: 35px;
+  left: 65px;
+}
+
+fieldset {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  width: 600px;
+  position: relative;
+  left: 500px;
+  bottom: 370px;
+  box-shadow: 0 0 55px black;
+}
+fieldset h4 {
+  text-align: center;
+}/*# sourceMappingURL=aboutus.css.map */
